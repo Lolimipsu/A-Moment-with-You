@@ -5,3 +5,5 @@ An Unfinished Monika focused story arc for DDLC
 This is the initial and Final release for this game.
 
 ~ started making this game on the summer hot day of April 2019, many good memories I hold dear.
+
+### You can download the game here: https://github.com/Lolimipsu/A-Moment-with-You/releases/tag/v0.01
